@@ -1,0 +1,2 @@
+FLASK_APP=Final_Project_US_Fruit_and_Veggie_Export_LSTM/app.py flask run
+

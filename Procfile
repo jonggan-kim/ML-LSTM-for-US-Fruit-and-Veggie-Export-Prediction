@@ -1,0 +1,1 @@
+web: gunicorn Final_Project_US_Fruit_and_Veggie_Export_LSTM.app:app
